@@ -10,10 +10,10 @@ How to run the app in your local machine:
 
 2. After downloading on your terminal run the following commands in sequence:
 
-1. npm install nodemon
+  1) npm install nodemon
 
-2. nodemon
+  2) nodemon
 
-3. After this go to your browser and access this IP :- 127.0.0.1:1337
+  3) After this go to your browser and access this IP :- 127.0.0.1:1337
 
 And thats it, it will be running now.
