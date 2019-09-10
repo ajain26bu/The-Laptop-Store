@@ -2,7 +2,7 @@
 
 A small project Build using node.js and routing. 
 
-Display's a Laptop Store and check out all the cool detailed features about each product.
+Display's all Laptops and give out all the cool detailed features about each product.
 
 How to run the app in your local machine:
 
